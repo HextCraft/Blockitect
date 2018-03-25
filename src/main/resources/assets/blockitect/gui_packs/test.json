@@ -1,0 +1,9 @@
+{
+  "name": "test",
+  "age": 100,
+  "messages": {
+    "msg 1": "Hey",
+    "msg 2": "How are you?",
+    "msg 3": "Bye"
+  }
+}
